@@ -1,6 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Gautam Sharma! 👋
 
-# Codeforces Stat Visualization
+### 🚀 Software Developer | Competitive Programmer | Tech Enthusiast
+
+Welcome to my GitHub profile! I'm passionate about software development, competitive programming, and continuous learning. Currently focused on mastering data structures & algorithms and full-stack development.
+
+## 🛠️ Tech Stack & Skills
+
+**Programming Languages:**
+- 🔥 **C++** - Data Structures & Algorithms, Competitive Programming
+- 🐍 **Python** - Automation, Data Visualization, Backend Development
+- 🌐 **JavaScript/TypeScript** - Full-stack Web Development
+- ⚡ **Node.js** - Backend Development & APIs
+
+**Frameworks & Technologies:**
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: Working with various database technologies
+- Tools: Git, GitHub Actions, REST APIs
+
+## 🏆 Competitive Programming
+
+I actively participate in competitive programming and maintain my progress through automated statistics:
 
 <a href="https://github.com/gautamsharma3107/cf-stats">
 <img src="https://raw.githubusercontent.com/gautamsharma3107/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
@@ -12,17 +32,27 @@
 <img src="https://raw.githubusercontent.com/gautamsharma3107/cf-stats/main/output/rating.svg" />
 </a>
 
-<!--
-**gautamsharma3107/gautamsharma3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Focus
 
-Here are some ideas to get you started:
+- 📚 **Preparing for Microsoft** - Intensive study of data structures & algorithms
+- 💻 **Building Projects** - Full-stack web applications with modern technologies
+- 🧠 **Problem Solving** - Daily practice on competitive programming platforms
+- 📖 **Learning** - Advanced TypeScript, system design, and software engineering principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+
+- **[cf-stats](https://github.com/gautamsharma3107/cf-stats)** - Automated Codeforces statistics visualization using Python and GitHub Actions
+- **[Practice_Code](https://github.com/gautamsharma3107/Practice_Code)** - Comprehensive C++ programming practice repository for technical interviews
+- **[cafe-auth](https://github.com/gautamsharma3107/cafe-auth)** - Authentication system implementation using JavaScript
+
+## 📫 Let's Connect!
+
+- 💼 **LinkedIn:** Connect with me for professional networking
+- 🌐 **Codeforces:** Check out my competitive programming profile
+- 📧 **Email:** Reach out for collaboration opportunities
+
+---
+
+⭐ **Fun fact:** I believe in learning through building! Every project teaches me something new about software development and problem-solving.
+
+💡 **Always open to:** Collaborative projects, learning opportunities, and interesting technical discussions!
