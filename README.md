@@ -44,7 +44,7 @@ I actively participate in competitive programming and maintain my progress throu
 ### 🎯 Skills & Domains
 
 <div align="left">
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-00EA64?style=flat-square&amp;logo=hackerrank&amp;logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&amp;logo=codechef&amp;logoColor=white) ![Data Structures](https://img.shields.io/badge/Data_Structures-4ECDC4?style=flat-square&amp;logo=datacamp&amp;logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-00EA64?style=flat-square&logo=hackerrank&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&logo=codechef&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data_Structures-4ECDC4?style=flat-square&logo=datacamp&logoColor=white)
 </div>
 
 ### 🏆 Certifications
