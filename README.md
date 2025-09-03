@@ -41,17 +41,6 @@ I actively participate in competitive programming and maintain my progress throu
 
 ### 📊 Statistics
 
-### 🎯 Skills & Domains
-
-<div align="left">
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-00EA64?style=flat-square&logo=hackerrank&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&logo=codechef&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data_Structures-4ECDC4?style=flat-square&logo=datacamp&logoColor=white)
-</div>
-
-### 🏆 Certifications
-
-- 🎖️ **Problem Solving (Basic)**
-- 🎖️ **Python (Basic)**
-
 ### 🚀 Recent Activity
 
 - 💪 **Active** on HackerRank solving algorithmic challenges
@@ -60,7 +49,7 @@ I actively participate in competitive programming and maintain my progress throu
 
 **[🔗 Visit my HackerRank Profile](https://www.hackerrank.com/profile/gautamsharma3107)**
 
-<sub>Last updated: 2025-09-03 13:03:49 UTC</sub>
+<sub>Last updated: 2025-09-03 21:36:20 UTC</sub>
 ## 🔭 Current Focus
 
 - 📚 **Preparing for Microsoft** - Intensive study of data structures & algorithms
