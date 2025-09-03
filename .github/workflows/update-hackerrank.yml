@@ -1,0 +1,77 @@
+name: Update HackerRank Achievements
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/fetch_hackerrank.py'
+      - '.github/workflows/update-hackerrank.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-hackerrank:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Fetch HackerRank achievements
+      run: |
+        cd scripts
+        python fetch_hackerrank.py
+        
+    - name: Update README with HackerRank stats
+      run: |
+        # Check if hackerrank_stats.md was generated
+        if [ -f "hackerrank_stats.md" ]; then
+          echo "HackerRank stats file found, updating README..."
+          
+          # Create a temporary file for the new README
+          cp README.md README_temp.md
+          
+          # Find the HackerRank section and replace it
+          python scripts/update_readme.py
+          
+          # Replace the original README if update was successful
+          if [ -f "README_updated.md" ]; then
+            mv README_updated.md README.md
+            echo "README updated successfully"
+          else
+            echo "Failed to update README"
+          fi
+        else
+          echo "No HackerRank stats file found"
+        fi
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Check if there are any changes
+        if git diff --quiet; then
+          echo "No changes to commit"
+        else
+          git add README.md hackerrank_stats.md
+          git commit -m "🏅 Update HackerRank achievements - $(date '+%Y-%m-%d')" || exit 0
+          git push
+        fi
