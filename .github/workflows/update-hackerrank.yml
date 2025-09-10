@@ -23,7 +23,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: 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
+        token: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -66,6 +66,7 @@ jobs:
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
       with:
+        token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "🏅 Update HackerRank achievements - $(date '+%Y-%m-%d')"
         title: "🏅 Update HackerRank achievements"
         body: "Automated update of HackerRank achievements from workflow."

@@ -17,6 +17,11 @@ This repository now includes automated HackerRank achievements integration that 
 
 ### 🛠️ Technical Details
 
+#### Security
+- **Token Security**: Uses GitHub's built-in `GITHUB_TOKEN` for secure authentication
+- **No Hardcoded Credentials**: All sensitive information is stored securely in GitHub secrets
+- **Minimal Permissions**: Workflow uses only necessary permissions for content and PR creation
+
 #### Files Structure
 ```
 ├── .github/workflows/update-hackerrank.yml  # GitHub Actions workflow
