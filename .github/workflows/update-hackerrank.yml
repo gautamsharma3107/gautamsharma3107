@@ -23,7 +23,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: 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
         
     - name: Set up Python
       uses: actions/setup-python@v4
