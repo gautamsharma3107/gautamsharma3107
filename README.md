@@ -50,12 +50,6 @@ I actively participate in competitive programming and maintain my progress throu
 **[🔗 Visit my HackerRank Profile](https://www.hackerrank.com/profile/gautamsharma3107)**
 
 <sub>Last updated: 2025-09-10 12:08:36 UTC</sub>
-## 🔭 Current Focus
-
-- 📚 **Preparing for Microsoft** - Intensive study of data structures & algorithms
-- 💻 **Building Projects** - Full-stack web applications with modern technologies
-- 🧠 **Problem Solving** - Daily practice on competitive programming platforms
-- 📖 **Learning** - Advanced TypeScript, system design, and software engineering principles
 
 ## 🌟 Featured Projects
 
