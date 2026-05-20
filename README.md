@@ -1,6 +1,14 @@
 # Hi there, I'm Gautam Sharma! 👋
 
-### 🚀 Software Developer | Competitive Programmer | Tech Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer;Competitive+Programmer;Tech+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/gautam3107/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/gautamsharma3107"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://github.com/gautamsharma3107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 Welcome to my GitHub profile! I'm passionate about software development, competitive programming, and continuous learning. Currently focused on mastering data structures & algorithms and full-stack development while building impactful projects.
 
@@ -10,6 +18,19 @@ Welcome to my GitHub profile! I'm passionate about software development, competi
 - 🧠 **Problem Solver** with a strong focus on DSA & competitive programming
 - ⚙️ **Builder** of automation tools, dashboards, and full‑stack apps
 - 📈 **Always Learning** — exploring new tech & improving daily
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gautamsharma3107&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamsharma3107&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamsharma3107&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
@@ -49,7 +70,11 @@ I actively participate in competitive programming and maintain my progress throu
 
 Sharpening problem‑solving skills daily on LeetCode:
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gautam3107/)
+<p align="left">
+  <a href="https://leetcode.com/u/gautam3107/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 **[🔗 Visit my LeetCode Profile](https://leetcode.com/u/gautam3107/)**
 
@@ -83,9 +108,11 @@ Sharpening problem‑solving skills daily on LeetCode:
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn:** Connect with me for professional networking
-- 🌐 **Codeforces:** Check out my competitive programming profile
-- 📧 **Email:** Reach out for collaboration opportunities
+<p align="left">
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
