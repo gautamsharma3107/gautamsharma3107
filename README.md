@@ -2,7 +2,16 @@
 
 ### 🚀 Software Developer | Competitive Programmer | Tech Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about software development, competitive programming, and continuous learning. Currently focused on mastering data structures & algorithms and full-stack development.
+Welcome to my GitHub profile! I'm passionate about software development, competitive programming, and continuous learning. Currently focused on mastering data structures & algorithms and full-stack development while building impactful projects.
+
+---
+
+## ✨ Highlights
+- 🧠 **Problem Solver** with a strong focus on DSA & competitive programming
+- ⚙️ **Builder** of automation tools, dashboards, and full‑stack apps
+- 📈 **Always Learning** — exploring new tech & improving daily
+
+---
 
 ## 🛠️ Tech Stack & Skills
 
@@ -18,6 +27,8 @@ Welcome to my GitHub profile! I'm passionate about software development, competi
 - Database: Working with various database technologies
 - Tools: Git, GitHub Actions, REST APIs
 
+---
+
 ## 🏆 Competitive Programming
 
 I actively participate in competitive programming and maintain my progress through automated statistics:
@@ -32,14 +43,23 @@ I actively participate in competitive programming and maintain my progress throu
 <img src="https://raw.githubusercontent.com/gautamsharma3107/cf-stats/main/output/rating.svg" />
 </a>
 
+---
+
+## 🧩 LeetCode Profile
+
+Sharpening problem‑solving skills daily on LeetCode:
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gautam3107/)
+
+**[🔗 Visit my LeetCode Profile](https://leetcode.com/u/gautam3107/)**
+
+---
 
 ## 🏅 HackerRank Achievements
 
 🌟 **Actively solving challenges and improving problem-solving skills on HackerRank!**
 
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gautamsharma3107)
-
-### 📊 Statistics
 
 ### 🚀 Recent Activity
 
@@ -51,11 +71,15 @@ I actively participate in competitive programming and maintain my progress throu
 
 <sub>Last updated: 2025-09-10 12:08:36 UTC</sub>
 
+---
+
 ## 🌟 Featured Projects
 
 - **[cf-stats](https://github.com/gautamsharma3107/cf-stats)** - Automated Codeforces statistics visualization using Python and GitHub Actions
 - **[Practice_Code](https://github.com/gautamsharma3107/Practice_Code)** - Comprehensive C++ programming practice repository for technical interviews
 - **[cafe-auth](https://github.com/gautamsharma3107/cafe-auth)** - Authentication system implementation using JavaScript
+
+---
 
 ## 📫 Let's Connect!
 
